@@ -88,4 +88,5 @@
         <variable name="MAX_STORE" value="0" />
         <variable name="WARN_DEBUG" value="false" />
     </plugin>
+    <engine name="android" spec="7.0.0" />
 </widget>
